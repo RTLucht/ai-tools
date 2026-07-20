@@ -110,5 +110,6 @@ The key value: no runaway agents. Every loop terminates when a measurable condit
 
 | Date | Change |
 |---|---|
+| 2026-07-20 | Sync attempted. signals.forwardfuture.ai and signals.forwardfuture.com still blocked at proxy level (403) — loop list could not be retrieved for second consecutive week. Web search re-confirms library at ~85 loops (from 41 on 2026-06-20). No new entries added. Manual check or proxy allowlist update required. |
 | 2026-07-13 | Sync attempted. signals.forwardfuture.ai and signals.forwardfuture.com blocked at proxy level (CONNECT tunnel 403) — loop list could not be retrieved. Web search confirms library has grown to ~85 loops (from 41) as of 2026-07-07. Manual check required or proxy allowlist update needed. |
 | 2026-06-20 | Initial doc created. 41 loops catalogued. |
