@@ -110,6 +110,7 @@ The key value: no runaway agents. Every loop terminates when a measurable condit
 
 | Date | Change |
 |---|---|
+| 2026-08-10 | Sync attempted — fifth consecutive week blocked. signals.forwardfuture.ai returns EGRESS_BLOCKED via proxy; domain is not on the allowlist. No new entries added. Proxy allowlist update required to resume syncs. |
 | 2026-08-03 | Sync attempted — fourth consecutive week blocked. signals.forwardfuture.ai returns 403 Forbidden; web search also unavailable. No new entries added. Proxy allowlist update required to resume syncs. |
 | 2026-07-27 | Sync attempted — third consecutive week blocked. All signals.forwardfuture.ai and signals.forwardfuture.com endpoints return 403, including catalog.md and catalog.json. Alternative sources (Digg, Substack, Medium) also blocked. Web search still indicates ~85 loops in library (vs 41 tracked). No new entries added. Proxy allowlist update required to resume syncs. |
 | 2026-07-20 | Sync attempted. signals.forwardfuture.ai and signals.forwardfuture.com still blocked at proxy level (403) — loop list could not be retrieved for second consecutive week. Web search re-confirms library at ~85 loops (from 41 on 2026-06-20). No new entries added. Manual check or proxy allowlist update required. |
