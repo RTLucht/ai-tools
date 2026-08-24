@@ -110,6 +110,7 @@ The key value: no runaway agents. Every loop terminates when a measurable condit
 
 | Date | Change |
 |---|---|
+| 2026-08-24 | Sync attempted — seventh consecutive week blocked. signals.forwardfuture.ai returns EGRESS_BLOCKED via proxy; domain is not on the allowlist. No new entries added. Proxy allowlist update required to resume syncs. |
 | 2026-08-17 | Sync attempted — sixth consecutive week blocked. signals.forwardfuture.ai returns EGRESS_BLOCKED via proxy; domain is not on the allowlist. No new entries added. Proxy allowlist update required to resume syncs. |
 | 2026-08-10 | Sync attempted — fifth consecutive week blocked. signals.forwardfuture.ai returns EGRESS_BLOCKED via proxy; domain is not on the allowlist. No new entries added. Proxy allowlist update required to resume syncs. |
 | 2026-08-03 | Sync attempted — fourth consecutive week blocked. signals.forwardfuture.ai returns 403 Forbidden; web search also unavailable. No new entries added. Proxy allowlist update required to resume syncs. |
