@@ -110,6 +110,7 @@ The key value: no runaway agents. Every loop terminates when a measurable condit
 
 | Date | Change |
 |---|---|
+| 2026-10-26 | Sync attempted — sixteenth consecutive week blocked. signals.forwardfuture.ai is not resolvable (ENOTFOUND / DNS failure); domain cannot be reached via proxy. No new entries added. Proxy allowlist update required to resume syncs. |
 | 2026-10-19 | Sync attempted — fifteenth consecutive week blocked. signals.forwardfuture.ai is not resolvable (ENOTFOUND / DNS failure); domain cannot be reached via proxy. No new entries added. Proxy allowlist update required to resume syncs. |
 | 2026-10-12 | Sync attempted — fourteenth consecutive week blocked. signals.forwardfuture.ai is not resolvable (ENOTFOUND / DNS failure); domain cannot be reached via proxy. No new entries added. Proxy allowlist update required to resume syncs. |
 | 2026-10-05 | Sync attempted — thirteenth consecutive week blocked. signals.forwardfuture.ai returns EGRESS_BLOCKED via proxy; domain is not on the allowlist. No new entries added. Proxy allowlist update required to resume syncs. |
